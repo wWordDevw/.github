@@ -20,44 +20,31 @@
 
 ## Hola, somos WordDev
 
-Somos un estudio de desarrollo digital que transforma ideas en **productos tecnológicos funcionales, escalables y preparados para crecer**. Acompañamos cada proyecto desde la conversación inicial y la estrategia hasta el lanzamiento, la medición y la evolución continua.
+Somos un equipo colombiano que convierte ideas en **sitios web, tiendas en línea, aplicaciones y sistemas fáciles de usar**.
 
-No nos limitamos a escribir código. Entendemos el negocio, diseñamos la experiencia y construimos la tecnología necesaria para convertir una buena idea en una solución digital rentable.
+Te acompañamos desde la primera conversación hasta el lanzamiento y el crecimiento de tu proyecto. Tú conoces tu negocio; nosotros te ayudamos a llevarlo al mundo digital.
 
-```javascript
-const partnership = await worddev.build({
-  idea: "tuya",
-  strategy: "compartida",
-  technology: "a la medida",
-  goal: "crecer juntos",
-});
-```
-
-## Lo que construimos
+## Lo que hacemos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>01 · Estrategia de producto</h3>
-      <p>Convertimos una idea en una propuesta clara: usuarios, alcance, prioridades, modelo de negocio y ruta de ejecución.</p>
-      <p><code>Discovery</code> <code>Research</code> <code>Roadmap</code> <code>MVP</code></p>
+      <h3>01 · Aterrizamos tu idea</h3>
+      <p>Entendemos qué quieres lograr, para quién lo quieres crear y cuál es la mejor forma de comenzar.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>02 · Desarrollo a medida</h3>
-      <p>Creamos sitios, aplicaciones, plataformas, sistemas de gestión y experiencias digitales sin depender de soluciones genéricas.</p>
-      <p><code>Web Apps</code> <code>E-commerce</code> <code>APIs</code> <code>SaaS</code></p>
+      <h3>02 · Creamos tu producto</h3>
+      <p>Diseñamos y desarrollamos sitios web, tiendas en línea, aplicaciones y sistemas pensados para tus necesidades.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>03 · Lanzamiento y despliegue</h3>
-      <p>Preparamos infraestructura, dominio, seguridad, rendimiento y automatización para llevar cada producto a producción con confianza.</p>
-      <p><code>DevOps</code> <code>Docker</code> <code>SSL</code> <code>CI/CD</code></p>
+      <h3>03 · Lo ponemos en marcha</h3>
+      <p>Publicamos tu producto, revisamos que todo funcione bien y lo dejamos listo para recibir a tus usuarios.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>04 · Soporte y crecimiento</h3>
-      <p>Seguimos después del lanzamiento: observamos, mantenemos, corregimos y encontramos nuevas oportunidades de evolución.</p>
-      <p><code>Analytics</code> <code>SEO</code> <code>Backups</code> <code>Support</code></p>
+      <h3>04 · Seguimos contigo</h3>
+      <p>Después del lanzamiento resolvemos problemas, hacemos mejoras y ayudamos a que el proyecto siga creciendo.</p>
     </td>
   </tr>
 </table>
@@ -74,7 +61,7 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
       </a>
       <h3>Rogue Fit</h3>
       <p>Experiencia de fitness y entrenamiento personalizado.</p>
-      <p><a href="https://rogue-fit.wordev.lat/"><strong>Explorar proyecto ↗</strong></a></p>
+      <p><a href="https://rogue-fit.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://gym.wordev.lat/">
@@ -82,7 +69,7 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
       </a>
       <h3>Gym Center</h3>
       <p>Sistema digital de gestión para gimnasios.</p>
-      <p><a href="https://gym.wordev.lat/"><strong>Explorar proyecto ↗</strong></a></p>
+      <p><a href="https://gym.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
   </tr>
   <tr>
@@ -92,7 +79,7 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
       </a>
       <h3>Hotel Boutique</h3>
       <p>Reservas y experiencia digital para hotelería.</p>
-      <p><a href="https://hotel.wordev.lat/"><strong>Explorar proyecto ↗</strong></a></p>
+      <p><a href="https://hotel.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://gourmet.wordev.lat/">
@@ -100,7 +87,7 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
       </a>
       <h3>Gourmet Kitchen</h3>
       <p>Presencia gastronómica con menú y narrativa visual.</p>
-      <p><a href="https://gourmet.wordev.lat/"><strong>Explorar proyecto ↗</strong></a></p>
+      <p><a href="https://gourmet.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
   </tr>
   <tr>
@@ -110,49 +97,50 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
       </a>
       <h3>Art Gallery</h3>
       <p>Galería virtual para descubrir y recorrer arte de una manera diferente.</p>
-      <p><a href="https://art-galery.wordev.lat/"><strong>Explorar proyecto ↗</strong></a></p>
+      <p><a href="https://art-galery.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
   </tr>
 </table>
 
-## Cómo llevamos una idea a producción
+## De la idea al lanzamiento
 
 <div align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/process-mobile.svg" />
-    <img src="./assets/process.svg" width="100%" alt="Proceso WordDev: descubrimiento, estrategia, desarrollo, lanzamiento y crecimiento" />
+    <source media="(max-width: 640px)" srcset="./assets/process-wordlings-mobile.png" />
+    <img src="./assets/process-wordlings.png" width="100%" alt="Los Wordlings acompañan una idea desde la primera conversación hasta su crecimiento" />
   </picture>
 </div>
 
-## Tecnología con propósito
+1. **Escuchamos.** Entendemos tu idea, tus clientes y el resultado que buscas.
+2. **Trazamos el camino.** Definimos qué construiremos y qué haremos primero.
+3. **Lo hacemos realidad.** Diseñamos, desarrollamos y revisamos cada parte contigo.
+4. **Lo lanzamos.** Publicamos el producto y comprobamos que todo funcione correctamente.
+5. **Lo ayudamos a crecer.** Seguimos presentes para mantenerlo y mejorarlo.
 
-Elegimos las herramientas según el problema, la escala esperada y la realidad de cada proyecto. Nuestro ecosistema incluye:
+## Trabajar con WordDev significa
 
-| Experiencia | Aplicaciones | Datos | Entrega |
-|:--|:--|:--|:--|
-| React · Next.js | Node.js · Python | PostgreSQL | Docker · Nginx |
-| TypeScript · Vite | PHP · Laravel | MySQL | Linux · CI/CD |
-| UI/UX · Responsive | APIs · Integraciones | Modelado · Analytics | Hosting · Observabilidad |
-
-## Cómo pensamos
-
-- **El negocio primero.** Una solución técnicamente brillante solo importa si resuelve una necesidad real.
-- **Comunicación directa.** Las decisiones, avances y riesgos deben entenderse sin intermediarios.
-- **Código que pueda evolucionar.** Creamos bases limpias, documentadas y mantenibles.
-- **Transparencia desde el inicio.** Alcance, prioridades y costos claros durante todo el proceso.
-- **El lanzamiento no es el final.** Medimos, aprendemos y seguimos construyendo.
+- **Entender antes de construir.** Primero escuchamos tu necesidad y tus objetivos.
+- **Hablar claro.** Explicamos avances, decisiones y dificultades sin palabras complicadas.
+- **Saber siempre dónde estamos.** Acordamos desde el inicio el alcance, las prioridades y los costos.
+- **Pensar en el futuro.** Creamos una base que pueda adaptarse a nuevas necesidades.
+- **Seguir después del lanzamiento.** Te acompañamos cuando el producto ya está en manos de sus usuarios.
 
 <br />
 
 <div align="center">
   <a href="https://wordev.lat/#contacto">
-    <img src="./assets/contact-banner.svg" width="100%" alt="Construyamos algo extraordinario con WordDev" />
+    <picture>
+      <source media="(max-width: 640px)" srcset="./assets/contact-wordlings-mobile.png" />
+      <img src="./assets/contact-wordlings.png" width="100%" alt="Los Wordlings de WordDev invitan a construir una nueva idea juntos" />
+    </picture>
   </a>
 </div>
 
 <div align="center">
   <br />
-  <strong>¿Tienes una idea o un desafío digital?</strong>
+  <strong>Tu idea puede ser nuestro próximo proyecto.</strong>
+  <br />
+  Cuéntanos qué quieres crear.
   <br /><br />
   <a href="https://wordev.lat/">wordev.lat</a>
   &nbsp;·&nbsp;
@@ -162,5 +150,5 @@ Elegimos las herramientas según el problema, la escala esperada y la realidad d
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/wordev-8699253a4/">LinkedIn</a>
   <br /><br />
-  <sub>Hecho con criterio, curiosidad y código desde Colombia.</sub>
+  <sub>Creamos productos digitales desde Colombia para cualquier lugar.</sub>
 </div>

@@ -14,9 +14,11 @@ profile/
     ├── worddev-hero-v2.png
     ├── worddev-hero-mobile-v2.png
     ├── worddev-mark.svg
-    ├── process.svg
-    ├── process-mobile.svg
-    ├── contact-banner.svg
+    ├── process-wordlings.png
+    ├── process-wordlings-mobile.png
+    ├── contact-wordlings.png
+    ├── contact-wordlings-mobile.png
+    ├── external-link.svg
     └── projects/
 ```
 
