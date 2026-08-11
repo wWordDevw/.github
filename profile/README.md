@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/worddev-hero-mobile.svg" />
-    <img src="./assets/worddev-hero.svg" width="100%" alt="WordDev — We build digital futures" />
+    <source media="(max-width: 640px)" srcset="./assets/worddev-hero-mobile-v2.png" />
+    <img src="./assets/worddev-hero-v2.png" width="100%" alt="Los Wordlings de WordDev construyendo juntos un ecosistema digital" />
   </picture>
 </div>
 

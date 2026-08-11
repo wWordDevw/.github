@@ -11,8 +11,8 @@ profile/
 ├── README.md
 ├── README.en.md
 └── assets/
-    ├── worddev-hero.svg
-    ├── worddev-hero-mobile.svg
+    ├── worddev-hero-v2.png
+    ├── worddev-hero-mobile-v2.png
     ├── worddev-mark.svg
     ├── process.svg
     ├── process-mobile.svg
