@@ -29,20 +29,24 @@ We support you from the first conversation through launch and growth. You know y
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><img src="./assets/services/shape-idea.png" width="160" alt="Pink Wordling shaping an idea" /></p>
       <h3>01 · Shape your idea</h3>
       <p>We understand what you want to achieve, who it is for, and the best way to get started.</p>
     </td>
     <td width="50%" valign="top">
+      <p align="center"><img src="./assets/services/create-product.png" width="160" alt="Wordlings building a digital product together" /></p>
       <h3>02 · Create your product</h3>
       <p>We design and build websites, online stores, applications, and systems made for your needs.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <p align="center"><img src="./assets/services/launch-product.png" width="160" alt="Purple Wordling bringing a product online" /></p>
       <h3>03 · Bring it online</h3>
       <p>We publish your product, check that everything works, and prepare it to welcome your users.</p>
     </td>
     <td width="50%" valign="top">
+      <p align="center"><img src="./assets/services/grow-together.png" width="160" alt="Wordlings caring for a growing project" /></p>
       <h3>04 · Stay by your side</h3>
       <p>After launch, we solve problems, make improvements, and help the project keep growing.</p>
     </td>

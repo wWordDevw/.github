@@ -19,6 +19,11 @@ profile/
     ├── contact-wordlings.png
     ├── contact-wordlings-mobile.png
     ├── external-link.svg
+    ├── services/
+    │   ├── shape-idea.png
+    │   ├── create-product.png
+    │   ├── launch-product.png
+    │   └── grow-together.png
     └── projects/
 ```
 
