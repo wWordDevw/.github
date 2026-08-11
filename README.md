@@ -14,16 +14,20 @@ profile/
     ├── worddev-hero-v2.png
     ├── worddev-hero-mobile-v2.png
     ├── worddev-mark.svg
-    ├── process-wordlings.png
-    ├── process-wordlings-mobile.png
     ├── contact-wordlings.png
     ├── contact-wordlings-mobile.png
     ├── external-link.svg
     ├── services/
-    │   ├── shape-idea.png
-    │   ├── create-product.png
-    │   ├── launch-product.png
-    │   └── grow-together.png
+    │   ├── shape-idea.svg
+    │   ├── create-product.svg
+    │   ├── launch-product.svg
+    │   └── grow-together.svg
+    ├── process/
+    │   ├── listen.svg
+    │   ├── plan.svg
+    │   ├── build.svg
+    │   ├── launch.svg
+    │   └── grow.svg
     └── projects/
 ```
 
