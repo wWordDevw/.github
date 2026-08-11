@@ -1,15 +1,23 @@
+<div align="center">
+  <h3>Documentation language</h3>
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-DEFAULT-6D5DFB?style=for-the-badge" alt="English — default and current language" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-OPEN-0EA5A4?style=for-the-badge" alt="Open Spanish documentation" /></a>
+</div>
+
+<br />
+
 # WordDev organization profile
 
-Este repositorio contiene la presentación pública de la organización WordDev en GitHub.
+This repository contains WordDev's public presentation on GitHub.
 
-GitHub renderiza automáticamente [`profile/README.md`](./profile/README.md) en la pestaña **Overview** de la organización.
+GitHub automatically renders [`profile/README.md`](./profile/README.md) on the organization's **Overview** page. English is the default language, while the complete Spanish version is available at [`profile/README.es.md`](./profile/README.es.md).
 
-## Estructura
+## Structure
 
 ```text
 profile/
 ├── README.md
-├── README.en.md
+├── README.es.md
 └── assets/
     ├── worddev-hero-v2.png
     ├── worddev-hero-mobile-v2.png
@@ -31,9 +39,9 @@ profile/
     └── projects/
 ```
 
-## Edición
+## Editing
 
-- Actualiza el contenido principal en `profile/README.md`.
-- Mantén sincronizada la traducción en `profile/README.en.md`.
-- Conserva rutas relativas para los recursos visuales.
-- Verifica enlaces y proyectos antes de publicar cambios.
+- Update the default English content in `profile/README.md`.
+- Keep the Spanish translation in `profile/README.es.md` synchronized.
+- Preserve relative paths for visual assets.
+- Verify links and featured projects before publishing changes.

@@ -1,146 +1,142 @@
 <div align="center">
+  <h3>Documentation language</h3>
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-DEFAULT-6D5DFB?style=for-the-badge" alt="English — default and current language" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-OPEN-0EA5A4?style=for-the-badge" alt="Open Spanish presentation" /></a>
+</div>
+
+<br />
+
+<div align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="./assets/worddev-hero-mobile-v2.png" />
-    <img src="./assets/worddev-hero-v2.png" width="100%" alt="Los Wordlings de WordDev construyendo juntos un ecosistema digital" />
+    <img src="./assets/worddev-hero-v2.png" width="100%" alt="The WordDev Wordlings building a digital ecosystem together" />
   </picture>
 </div>
 
 <div align="center">
   <br />
-  <a href="https://wordev.lat/"><strong>Sitio web</strong></a>
+  <a href="https://wordev.lat/"><strong>Website</strong></a>
   &nbsp;·&nbsp;
-  <a href="#proyectos-destacados"><strong>Explorar proyectos</strong></a>
+  <a href="#featured-work"><strong>Explore our work</strong></a>
   &nbsp;·&nbsp;
-  <a href="https://wa.me/573215011683"><strong>Hablemos</strong></a>
-  &nbsp;·&nbsp;
-  <a href="./README.en.md"><strong>English</strong></a>
+  <a href="https://wa.me/573215011683"><strong>Let's talk</strong></a>
 </div>
 
 <br />
 
-## Hola, somos WordDev
+## Hello, we are WordDev
 
-Somos un equipo colombiano que convierte ideas en **sitios web, tiendas en línea, aplicaciones y sistemas fáciles de usar**.
+We are a Colombian team that turns ideas into **websites, online stores, applications, and systems that are easy to use**.
 
-Te acompañamos desde la primera conversación hasta el lanzamiento y el crecimiento de tu proyecto. Tú conoces tu negocio; nosotros te ayudamos a llevarlo al mundo digital.
+We support you from the first conversation through launch and growth. You know your business; we help you bring it into the digital world.
 
-## Lo que hacemos
+## What we do
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <br />
-      <p align="center"><img src="./assets/services/idea.svg" width="96" alt="Icono de una idea tomando forma" /></p>
-      <h3>01 · Aterrizamos tu idea</h3>
-      <p>Entendemos qué quieres lograr, para quién lo quieres crear y cuál es la mejor forma de comenzar.</p>
+      <p align="center"><img src="./assets/services/idea.svg" width="96" alt="An idea taking shape" /></p>
+      <h3>01 · Shape your idea</h3>
+      <p>We understand what you want to achieve, who it is for, and the best way to get started.</p>
       <br />
     </td>
     <td width="50%" valign="top">
       <br />
-      <p align="center"><img src="./assets/services/product.svg" width="96" alt="Icono de un producto digital en construcción" /></p>
-      <h3>02 · Creamos tu producto</h3>
-      <p>Diseñamos y desarrollamos sitios web, tiendas en línea, aplicaciones y sistemas pensados para tus necesidades.</p>
+      <p align="center"><img src="./assets/services/product.svg" width="96" alt="A digital product being built" /></p>
+      <h3>02 · Create your product</h3>
+      <p>We design and build websites, online stores, applications, and systems made for your needs.</p>
       <br />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <br />
-      <p align="center"><img src="./assets/services/launch.svg" width="96" alt="Icono de lanzamiento de un producto" /></p>
-      <h3>03 · Lo ponemos en marcha</h3>
-      <p>Publicamos tu producto, revisamos que todo funcione bien y lo dejamos listo para recibir a tus usuarios.</p>
+      <p align="center"><img src="./assets/services/launch.svg" width="96" alt="A product being launched" /></p>
+      <h3>03 · Bring it online</h3>
+      <p>We publish your product, check that everything works, and prepare it to welcome your users.</p>
       <br />
     </td>
     <td width="50%" valign="top">
       <br />
-      <p align="center"><img src="./assets/services/support.svg" width="96" alt="Icono de crecimiento y acompañamiento" /></p>
-      <h3>04 · Seguimos contigo</h3>
-      <p>Después del lanzamiento resolvemos problemas, hacemos mejoras y ayudamos a que el proyecto siga creciendo.</p>
+      <p align="center"><img src="./assets/services/support.svg" width="96" alt="Growth and ongoing support" /></p>
+      <h3>04 · Stay by your side</h3>
+      <p>After launch, we solve problems, make improvements, and help the project keep growing.</p>
       <br />
     </td>
   </tr>
 </table>
 
-## Proyectos destacados
+## Featured work
 
-Una selección de experiencias creadas para explorar diferentes industrias, necesidades y formas de interacción digital.
+A selection of digital experiences exploring different industries, needs, and interaction models.
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://rogue-fit.wordev.lat/">
-        <img src="./assets/projects/rogue-fit.png" width="100%" alt="Vista previa de Rogue Fit" />
-      </a>
+      <a href="https://rogue-fit.wordev.lat/"><img src="./assets/projects/rogue-fit.png" width="100%" alt="Rogue Fit preview" /></a>
       <h3>Rogue Fit</h3>
-      <p>Experiencia de fitness y entrenamiento personalizado.</p>
-      <p><a href="https://rogue-fit.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <p>A fitness and personalized training experience.</p>
+      <p><a href="https://rogue-fit.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://gym.wordev.lat/">
-        <img src="./assets/projects/gym-center.png" width="100%" alt="Vista previa de Gym Center" />
-      </a>
+      <a href="https://gym.wordev.lat/"><img src="./assets/projects/gym-center.png" width="100%" alt="Gym Center preview" /></a>
       <h3>Gym Center</h3>
-      <p>Sistema digital de gestión para gimnasios.</p>
-      <p><a href="https://gym.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <p>A digital management system for gyms.</p>
+      <p><a href="https://gym.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://hotel.wordev.lat/">
-        <img src="./assets/projects/hotel-boutique.png" width="100%" alt="Vista previa de Hotel Boutique" />
-      </a>
+      <a href="https://hotel.wordev.lat/"><img src="./assets/projects/hotel-boutique.png" width="100%" alt="Hotel Boutique preview" /></a>
       <h3>Hotel Boutique</h3>
-      <p>Reservas y experiencia digital para hotelería.</p>
-      <p><a href="https://hotel.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <p>Booking and digital hospitality experience.</p>
+      <p><a href="https://hotel.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://gourmet.wordev.lat/">
-        <img src="./assets/projects/gourmet-kitchen.png" width="100%" alt="Vista previa de Gourmet Kitchen" />
-      </a>
+      <a href="https://gourmet.wordev.lat/"><img src="./assets/projects/gourmet-kitchen.png" width="100%" alt="Gourmet Kitchen preview" /></a>
       <h3>Gourmet Kitchen</h3>
-      <p>Presencia gastronómica con menú y narrativa visual.</p>
-      <p><a href="https://gourmet.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <p>A visual culinary presence with a digital menu.</p>
+      <p><a href="https://gourmet.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" align="center">
-      <a href="https://art-galery.wordev.lat/">
-        <img src="./assets/projects/art-gallery.png" width="72%" alt="Vista previa de Art Gallery" />
-      </a>
+      <a href="https://art-galery.wordev.lat/"><img src="./assets/projects/art-gallery.png" width="72%" alt="Art Gallery preview" /></a>
       <h3>Art Gallery</h3>
-      <p>Galería virtual para descubrir y recorrer arte de una manera diferente.</p>
-      <p><a href="https://art-galery.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <p>A virtual gallery for discovering and experiencing art differently.</p>
+      <p><a href="https://art-galery.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
   </tr>
 </table>
 
-## De la idea al lanzamiento
+## From idea to launch
 
 <p align="center">
-  <img src="./assets/process/listen-step.svg" width="72" alt="Escuchar" />
+  <img src="./assets/process/listen-step.svg" width="72" alt="Listen" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/process/plan-step.svg" width="72" alt="Planear" />
+  <img src="./assets/process/plan-step.svg" width="72" alt="Plan" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/process/build-step.svg" width="72" alt="Construir" />
+  <img src="./assets/process/build-step.svg" width="72" alt="Build" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/process/launch-step.svg" width="72" alt="Lanzar" />
+  <img src="./assets/process/launch-step.svg" width="72" alt="Launch" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/process/grow-step.svg" width="72" alt="Crecer" />
+  <img src="./assets/process/grow-step.svg" width="72" alt="Grow" />
 </p>
 
-1. **Escuchamos.** Entendemos tu idea, tus clientes y el resultado que buscas.
-2. **Trazamos el camino.** Definimos qué construiremos y qué haremos primero.
-3. **Lo hacemos realidad.** Diseñamos, desarrollamos y revisamos cada parte contigo.
-4. **Lo lanzamos.** Publicamos el producto y comprobamos que todo funcione correctamente.
-5. **Lo ayudamos a crecer.** Seguimos presentes para mantenerlo y mejorarlo.
+1. **We listen.** We learn about your idea, your customers, and the result you want.
+2. **We map the path.** We define what we will build and what comes first.
+3. **We bring it to life.** We design, build, and review every part with you.
+4. **We launch it.** We publish the product and make sure everything works correctly.
+5. **We help it grow.** We stay involved to maintain and improve it.
 
-## Trabajar con WordDev significa
+## Working with WordDev means
 
-- **Entender antes de construir.** Primero escuchamos tu necesidad y tus objetivos.
-- **Hablar claro.** Explicamos avances, decisiones y dificultades sin palabras complicadas.
-- **Saber siempre dónde estamos.** Acordamos desde el inicio el alcance, las prioridades y los costos.
-- **Pensar en el futuro.** Creamos una base que pueda adaptarse a nuevas necesidades.
-- **Seguir después del lanzamiento.** Te acompañamos cuando el producto ya está en manos de sus usuarios.
+- **Understanding before building.** We begin by listening to your needs and goals.
+- **Speaking clearly.** We explain progress, decisions, and difficulties without complicated language.
+- **Always knowing where we stand.** We agree on scope, priorities, and costs from the beginning.
+- **Thinking ahead.** We create a foundation that can adapt to new needs.
+- **Staying after launch.** We support you once the product is in your users' hands.
 
 <br />
 
@@ -148,16 +144,16 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
   <a href="https://wordev.lat/#contacto">
     <picture>
       <source media="(max-width: 640px)" srcset="./assets/contact-wordlings-mobile.png" />
-      <img src="./assets/contact-wordlings.png" width="100%" alt="Los Wordlings de WordDev invitan a construir una nueva idea juntos" />
+      <img src="./assets/contact-wordlings.png" width="100%" alt="The WordDev Wordlings invite you to build a new idea together" />
     </picture>
   </a>
 </div>
 
 <div align="center">
   <br />
-  <strong>Tu idea puede ser nuestro próximo proyecto.</strong>
+  <strong>Your idea could be our next project.</strong>
   <br />
-  Cuéntanos qué quieres crear.
+  Tell us what you want to create.
   <br /><br />
   <a href="https://wordev.lat/">wordev.lat</a>
   &nbsp;·&nbsp;
@@ -167,5 +163,5 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/wordev-8699253a4/">LinkedIn</a>
   <br /><br />
-  <sub>Creamos productos digitales desde Colombia para cualquier lugar. ❤️</sub>
+  <sub>We create digital products from Colombia for anywhere in the world. ❤️</sub>
 </div>
