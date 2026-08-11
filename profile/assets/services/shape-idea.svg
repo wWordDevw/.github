@@ -7,9 +7,8 @@
   <rect x="2" y="2" width="92" height="92" rx="24" fill="url(#bg)" stroke="#313a87" stroke-width="2"/>
   <circle cx="48" cy="48" r="31" fill="none" stroke="#6d6cff" stroke-opacity=".13"/>
   <g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" filter="url(#glow)">
-    <path d="m48 23 14 14-14 18-14-18 14-14Z"/>
-    <path d="m34 37 14 4 14-4M48 41v14M48 55v8"/>
-    <path d="M31 69c5 7 29 7 34 0M36 66c7-4 17-4 24 0"/>
+    <path d="M48 21c-11 0-19 8-19 18 0 7 4 12 9 16 3 2 4 5 4 8h12c0-3 1-6 4-8 5-4 9-9 9-16 0-10-8-18-19-18Z"/>
+    <path d="M42 69h12M44 75h8M40 40l6 6 11-13"/>
   </g>
-  <g fill="#74e8ff"><circle cx="24" cy="30" r="2"/><circle cx="72" cy="61" r="1.8"/></g>
+  <g fill="#74e8ff"><circle cx="23" cy="30" r="2"/><circle cx="73" cy="61" r="1.8"/></g>
 </svg>

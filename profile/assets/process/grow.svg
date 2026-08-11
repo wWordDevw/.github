@@ -6,8 +6,7 @@
   </defs>
   <rect x="2" y="2" width="92" height="92" rx="24" fill="url(#bg)" stroke="#25666d" stroke-width="2"/>
   <g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" filter="url(#glow)">
-    <path d="M47 72V41M47 52c-10 0-16-5-17-14 10-1 16 4 17 14ZM47 44c1-10 8-16 18-14-1 9-8 14-18 14Z"/>
-    <path d="M27 68c10 7 31 8 43-2M62 63l8 3-2 8"/>
+    <path d="M22 73h55M27 73V59h11v14M44 73V48h11v25M61 73V37h11v36"/>
+    <path d="m25 47 14-12 12 7 22-21M64 21h9v9"/>
   </g>
-  <g fill="#77edc3"><circle cx="25" cy="27" r="2"/><circle cx="72" cy="28" r="1.7"/></g>
 </svg>

@@ -6,9 +6,7 @@
   </defs>
   <rect x="2" y="2" width="92" height="92" rx="24" fill="url(#bg)" stroke="#2d4a8c" stroke-width="2"/>
   <g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" filter="url(#glow)">
-    <path d="m48 20 18 10v20L48 60 30 50V30l18-10Z"/>
-    <path d="m30 30 18 10 18-10M48 40v20"/>
-    <path d="M25 62v10h10M71 62v10H61"/>
+    <path d="M25 25c6-3 12-1 15 3l-8 8 7 7 8-8c4 5 4 12 0 17L68 73l6-6-21-21"/>
+    <path d="m30 70 34-34M57 29l10-5 6 6-5 10M24 76l6-14 9 9-15 5Z"/>
   </g>
-  <circle cx="48" cy="40" r="3" fill="#7cecff"/>
 </svg>

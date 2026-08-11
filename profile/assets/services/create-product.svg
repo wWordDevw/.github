@@ -7,11 +7,9 @@
   <rect x="2" y="2" width="92" height="92" rx="24" fill="url(#bg)" stroke="#284789" stroke-width="2"/>
   <circle cx="48" cy="48" r="31" fill="none" stroke="#4edcff" stroke-opacity=".12"/>
   <g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" filter="url(#glow)">
-    <rect x="22" y="29" width="22" height="18" rx="4"/>
-    <rect x="52" y="22" width="22" height="25" rx="4"/>
-    <rect x="22" y="55" width="30" height="19" rx="4"/>
-    <rect x="60" y="55" width="14" height="19" rx="4"/>
-    <path d="M44 38h8M37 47v8M63 47v8M52 65h8"/>
+    <rect x="18" y="23" width="60" height="50" rx="7"/>
+    <path d="M18 35h60M27 44h23M27 53h17M27 62h12"/>
+    <path d="m57 59 13-13 6 6-13 13-8 2 2-8Z"/>
   </g>
-  <circle cx="48" cy="38" r="2.5" fill="#76ecff"/>
+  <g fill="#76ecff"><circle cx="27" cy="29" r="1.8"/><circle cx="34" cy="29" r="1.8"/></g>
 </svg>

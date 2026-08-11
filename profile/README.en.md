@@ -26,7 +26,7 @@ We support you from the first conversation through launch and growth. You know y
 
 ## What we do
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img src="./assets/services/shape-idea.svg" width="96" alt="An idea taking shape" /></p>
@@ -98,7 +98,7 @@ A selection of digital experiences exploring different industries, needs, and in
 
 ## From idea to launch
 
-<table>
+<table width="100%">
   <tr>
     <td width="20%" align="center"><img src="./assets/process/listen.svg" width="72" alt="Listen" /></td>
     <td width="20%" align="center"><img src="./assets/process/plan.svg" width="72" alt="Plan" /></td>

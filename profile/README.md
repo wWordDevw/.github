@@ -26,7 +26,7 @@ Te acompañamos desde la primera conversación hasta el lanzamiento y el crecimi
 
 ## Lo que hacemos
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <p align="center"><img src="./assets/services/shape-idea.svg" width="96" alt="Icono de una idea tomando forma" /></p>
@@ -108,7 +108,7 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
 
 ## De la idea al lanzamiento
 
-<table>
+<table width="100%">
   <tr>
     <td width="20%" align="center"><img src="./assets/process/listen.svg" width="72" alt="Escuchar" /></td>
     <td width="20%" align="center"><img src="./assets/process/plan.svg" width="72" alt="Planear" /></td>
