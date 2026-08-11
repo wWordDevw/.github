@@ -18,16 +18,16 @@ profile/
     ├── contact-wordlings-mobile.png
     ├── external-link.svg
     ├── services/
-    │   ├── shape-idea.svg
-    │   ├── create-product.svg
-    │   ├── launch-product.svg
-    │   └── grow-together.svg
-    ├── process/
-    │   ├── listen.svg
-    │   ├── plan.svg
-    │   ├── build.svg
+    │   ├── idea.svg
+    │   ├── product.svg
     │   ├── launch.svg
-    │   └── grow.svg
+    │   └── support.svg
+    ├── process/
+    │   ├── listen-step.svg
+    │   ├── plan-step.svg
+    │   ├── build-step.svg
+    │   ├── launch-step.svg
+    │   └── grow-step.svg
     └── projects/
 ```
 

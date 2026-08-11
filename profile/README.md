@@ -29,24 +29,24 @@ Te acompañamos desde la primera conversación hasta el lanzamiento y el crecimi
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/services/shape-idea.svg" width="96" alt="Icono de una idea tomando forma" /></p>
+      <p align="center"><img src="./assets/services/idea.svg" width="96" alt="Icono de una idea tomando forma" /></p>
       <h3>01 · Aterrizamos tu idea</h3>
       <p>Entendemos qué quieres lograr, para quién lo quieres crear y cuál es la mejor forma de comenzar.</p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/services/create-product.svg" width="96" alt="Icono de un producto digital en construcción" /></p>
+      <p align="center"><img src="./assets/services/product.svg" width="96" alt="Icono de un producto digital en construcción" /></p>
       <h3>02 · Creamos tu producto</h3>
       <p>Diseñamos y desarrollamos sitios web, tiendas en línea, aplicaciones y sistemas pensados para tus necesidades.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/services/launch-product.svg" width="96" alt="Icono de lanzamiento de un producto" /></p>
+      <p align="center"><img src="./assets/services/launch.svg" width="96" alt="Icono de lanzamiento de un producto" /></p>
       <h3>03 · Lo ponemos en marcha</h3>
       <p>Publicamos tu producto, revisamos que todo funcione bien y lo dejamos listo para recibir a tus usuarios.</p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/services/grow-together.svg" width="96" alt="Icono de crecimiento y acompañamiento" /></p>
+      <p align="center"><img src="./assets/services/support.svg" width="96" alt="Icono de crecimiento y acompañamiento" /></p>
       <h3>04 · Seguimos contigo</h3>
       <p>Después del lanzamiento resolvemos problemas, hacemos mejoras y ayudamos a que el proyecto siga creciendo.</p>
     </td>
@@ -108,15 +108,17 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
 
 ## De la idea al lanzamiento
 
-<table width="100%">
-  <tr>
-    <td width="20%" align="center"><img src="./assets/process/listen.svg" width="72" alt="Escuchar" /></td>
-    <td width="20%" align="center"><img src="./assets/process/plan.svg" width="72" alt="Planear" /></td>
-    <td width="20%" align="center"><img src="./assets/process/build.svg" width="72" alt="Construir" /></td>
-    <td width="20%" align="center"><img src="./assets/process/launch.svg" width="72" alt="Lanzar" /></td>
-    <td width="20%" align="center"><img src="./assets/process/grow.svg" width="72" alt="Crecer" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/process/listen-step.svg" width="72" alt="Escuchar" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/process/plan-step.svg" width="72" alt="Planear" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/process/build-step.svg" width="72" alt="Construir" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/process/launch-step.svg" width="72" alt="Lanzar" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/process/grow-step.svg" width="72" alt="Crecer" />
+</p>
 
 1. **Escuchamos.** Entendemos tu idea, tus clientes y el resultado que buscas.
 2. **Trazamos el camino.** Definimos qué construiremos y qué haremos primero.

@@ -29,24 +29,24 @@ We support you from the first conversation through launch and growth. You know y
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/services/shape-idea.svg" width="96" alt="An idea taking shape" /></p>
+      <p align="center"><img src="./assets/services/idea.svg" width="96" alt="An idea taking shape" /></p>
       <h3>01 · Shape your idea</h3>
       <p>We understand what you want to achieve, who it is for, and the best way to get started.</p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/services/create-product.svg" width="96" alt="A digital product being built" /></p>
+      <p align="center"><img src="./assets/services/product.svg" width="96" alt="A digital product being built" /></p>
       <h3>02 · Create your product</h3>
       <p>We design and build websites, online stores, applications, and systems made for your needs.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/services/launch-product.svg" width="96" alt="A product being launched" /></p>
+      <p align="center"><img src="./assets/services/launch.svg" width="96" alt="A product being launched" /></p>
       <h3>03 · Bring it online</h3>
       <p>We publish your product, check that everything works, and prepare it to welcome your users.</p>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><img src="./assets/services/grow-together.svg" width="96" alt="Growth and ongoing support" /></p>
+      <p align="center"><img src="./assets/services/support.svg" width="96" alt="Growth and ongoing support" /></p>
       <h3>04 · Stay by your side</h3>
       <p>After launch, we solve problems, make improvements, and help the project keep growing.</p>
     </td>
@@ -98,15 +98,17 @@ A selection of digital experiences exploring different industries, needs, and in
 
 ## From idea to launch
 
-<table width="100%">
-  <tr>
-    <td width="20%" align="center"><img src="./assets/process/listen.svg" width="72" alt="Listen" /></td>
-    <td width="20%" align="center"><img src="./assets/process/plan.svg" width="72" alt="Plan" /></td>
-    <td width="20%" align="center"><img src="./assets/process/build.svg" width="72" alt="Build" /></td>
-    <td width="20%" align="center"><img src="./assets/process/launch.svg" width="72" alt="Launch" /></td>
-    <td width="20%" align="center"><img src="./assets/process/grow.svg" width="72" alt="Grow" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/process/listen-step.svg" width="72" alt="Listen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/process/plan-step.svg" width="72" alt="Plan" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/process/build-step.svg" width="72" alt="Build" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/process/launch-step.svg" width="72" alt="Launch" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./assets/process/grow-step.svg" width="72" alt="Grow" />
+</p>
 
 1. **We listen.** We learn about your idea, your customers, and the result you want.
 2. **We map the path.** We define what we will build and what comes first.

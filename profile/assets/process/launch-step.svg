@@ -5,9 +5,10 @@
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="1.3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
   <rect x="2" y="2" width="92" height="92" rx="24" fill="url(#bg)" stroke="#44398e" stroke-width="2"/>
-  <g fill="none" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" filter="url(#glow)">
-    <path d="M50 19c10 8 14 20 12 33L51 63 39 52c0-14 4-25 11-33Z"/>
-    <circle cx="50" cy="37" r="5"/>
-    <path d="m40 48-10 8 9 2M58 48l8 8-5 2M44 61l-5 14 9-7 4 7 4-14"/>
+  <g transform="rotate(45 48 48)" stroke="url(#g)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" filter="url(#glow)">
+    <path d="M48 15c11 9 16 23 15 39L55 66H41l-8-12c-1-16 4-30 15-39Z" fill="url(#g)" fill-opacity=".16"/>
+    <circle cx="48" cy="36" r="6" fill="#101747"/>
+    <path d="m34 48-11 13 12-3M62 48l11 13-12-3M41 66l7 15 7-15" fill="none"/>
+    <path d="M44 72v8M52 72v8" fill="none"/>
   </g>
 </svg>
