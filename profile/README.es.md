@@ -123,7 +123,7 @@ Una selección de experiencias creadas para explorar diferentes industrias, nece
 ## De la idea al lanzamiento
 
 <p align="center">
-  <img src="./assets/process/listen-step.svg" width="72" alt="Escuchar" />
+  <img src="./assets/process/conversation-step.svg" width="72" alt="Escuchar" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/process/plan-step.svg" width="72" alt="Planear" />
   &nbsp;&nbsp;&nbsp;

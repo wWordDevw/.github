@@ -31,7 +31,7 @@ profile/
     │   ├── launch.svg
     │   └── support.svg
     ├── process/
-    │   ├── listen-step.svg
+    │   ├── conversation-step.svg
     │   ├── plan-step.svg
     │   ├── build-step.svg
     │   ├── launch-step.svg

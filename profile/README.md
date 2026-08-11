@@ -113,7 +113,7 @@ A selection of digital experiences exploring different industries, needs, and in
 ## From idea to launch
 
 <p align="center">
-  <img src="./assets/process/listen-step.svg" width="72" alt="Listen" />
+  <img src="./assets/process/conversation-step.svg" width="72" alt="Listen" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/process/plan-step.svg" width="72" alt="Plan" />
   &nbsp;&nbsp;&nbsp;
