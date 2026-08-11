@@ -12,8 +12,10 @@ profile/
 ├── README.en.md
 └── assets/
     ├── worddev-hero.svg
+    ├── worddev-hero-mobile.svg
     ├── worddev-mark.svg
     ├── process.svg
+    ├── process-mobile.svg
     ├── contact-banner.svg
     └── projects/
 ```

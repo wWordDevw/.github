@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="./assets/worddev-hero.svg" width="100%" alt="WordDev — We build digital futures" />
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/worddev-hero-mobile.svg" />
+    <img src="./assets/worddev-hero.svg" width="100%" alt="WordDev — We build digital futures" />
+  </picture>
 </div>
 
 <div align="center">
@@ -105,7 +108,10 @@ A selection of digital experiences exploring different industries, needs, and in
 ## How we take an idea to production
 
 <div align="center">
-  <img src="./assets/process.svg" width="100%" alt="WordDev process: discovery, strategy, development, launch, and growth" />
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/process-mobile.svg" />
+    <img src="./assets/process.svg" width="100%" alt="WordDev process: discovery, strategy, development, launch, and growth" />
+  </picture>
 </div>
 
 ## Technology with purpose
