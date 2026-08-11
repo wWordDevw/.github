@@ -29,26 +29,34 @@ We support you from the first conversation through launch and growth. You know y
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <br />
       <p align="center"><img src="./assets/services/idea.svg" width="96" alt="An idea taking shape" /></p>
       <h3>01 · Shape your idea</h3>
       <p>We understand what you want to achieve, who it is for, and the best way to get started.</p>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <p align="center"><img src="./assets/services/product.svg" width="96" alt="A digital product being built" /></p>
       <h3>02 · Create your product</h3>
       <p>We design and build websites, online stores, applications, and systems made for your needs.</p>
+      <br />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <br />
       <p align="center"><img src="./assets/services/launch.svg" width="96" alt="A product being launched" /></p>
       <h3>03 · Bring it online</h3>
       <p>We publish your product, check that everything works, and prepare it to welcome your users.</p>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <p align="center"><img src="./assets/services/support.svg" width="96" alt="Growth and ongoing support" /></p>
       <h3>04 · Stay by your side</h3>
       <p>After launch, we solve problems, make improvements, and help the project keep growing.</p>
+      <br />
     </td>
   </tr>
 </table>
@@ -149,5 +157,5 @@ A selection of digital experiences exploring different industries, needs, and in
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/wordev-8699253a4/">LinkedIn</a>
   <br /><br />
-  <sub>We create digital products from Colombia for anywhere in the world.</sub>
+  <sub>We create digital products from Colombia for anywhere in the world. ❤️</sub>
 </div>
