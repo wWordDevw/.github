@@ -69,53 +69,35 @@ Te acompañamos desde la primera conversación hasta el lanzamiento y el crecimi
 
 ## Proyectos destacados
 
-Una selección de experiencias creadas para explorar diferentes industrias, necesidades y formas de interacción digital.
+Productos reales creados para operaciones reales.
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://rogue-fit.wordev.lat/">
-        <img src="./assets/projects/rogue-fit.png" width="100%" alt="Vista previa de Rogue Fit" />
-      </a>
-      <h3>Rogue Fit</h3>
-      <p>Experiencia de fitness y entrenamiento personalizado.</p>
-      <p><a href="https://rogue-fit.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <a href="https://reklu.co/"><img src="./assets/projects/reklu-ats.png" width="100%" alt="Vista previa de la plataforma de reclutamiento Reklu ATS" /></a>
+      <h3>Reklu ATS</h3>
+      <p>Plataforma multiempresa de reclutamiento para vacantes, candidatos, flujos, reportes y cumplimiento.</p>
+      <p><a href="https://reklu.co/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://gym.wordev.lat/">
-        <img src="./assets/projects/gym-center.png" width="100%" alt="Vista previa de Gym Center" />
-      </a>
-      <h3>Gym Center</h3>
-      <p>Sistema digital de gestión para gimnasios.</p>
-      <p><a href="https://gym.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <a href="https://recibopagos.staging.terap-ia.lat/"><img src="./assets/projects/recibopagos.png" width="100%" alt="Vista previa de productos de pago ReciboPagos" /></a>
+      <h3>ReciboPagos</h3>
+      <p>Experiencia responsiva de producto y comercio para conocer soluciones de pago presenciales y en línea.</p>
+      <p><a href="https://recibopagos.staging.terap-ia.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://hotel.wordev.lat/">
-        <img src="./assets/projects/hotel-boutique.png" width="100%" alt="Vista previa de Hotel Boutique" />
-      </a>
-      <h3>Hotel Boutique</h3>
-      <p>Reservas y experiencia digital para hotelería.</p>
-      <p><a href="https://hotel.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <a href="https://eventia.events/"><img src="./assets/projects/eventia.png" width="100%" alt="Vista previa del marketplace de eventos Eventia" /></a>
+      <h3>Eventia</h3>
+      <p>Marketplace de eventos para descubrir profesionales, comparar propuestas, contratar y comunicarse en un mismo lugar.</p>
+      <p><a href="https://eventia.events/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://gourmet.wordev.lat/">
-        <img src="./assets/projects/gourmet-kitchen.png" width="100%" alt="Vista previa de Gourmet Kitchen" />
-      </a>
-      <h3>Gourmet Kitchen</h3>
-      <p>Presencia gastronómica con menú y narrativa visual.</p>
-      <p><a href="https://gourmet.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <a href="https://art-galery.wordev.lat/">
-        <img src="./assets/projects/art-gallery.png" width="72%" alt="Vista previa de Art Gallery" />
-      </a>
-      <h3>Art Gallery</h3>
-      <p>Galería virtual para descubrir y recorrer arte de una manera diferente.</p>
-      <p><a href="https://art-galery.wordev.lat/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
+      <a href="https://www.afatransfers.com/"><img src="./assets/projects/afa-transfers.jpeg" width="100%" alt="Vista previa de la plataforma de transporte premium AFA Transfers" /></a>
+      <h3>AFA Transfers</h3>
+      <p>Plataforma multilingüe para traslados de aeropuerto, viajes privados, excursiones, reservas y operación de transporte en México.</p>
+      <p><a href="https://www.afatransfers.com/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>
     </td>
   </tr>
 </table>

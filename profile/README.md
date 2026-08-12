@@ -69,43 +69,35 @@ We support you from the first conversation through launch and growth. You know y
 
 ## Featured work
 
-A selection of digital experiences exploring different industries, needs, and interaction models.
+Real products built for real operations.
 
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://rogue-fit.wordev.lat/"><img src="./assets/projects/rogue-fit.png" width="100%" alt="Rogue Fit preview" /></a>
-      <h3>Rogue Fit</h3>
-      <p>A fitness and personalized training experience.</p>
-      <p><a href="https://rogue-fit.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
+      <a href="https://reklu.co/"><img src="./assets/projects/reklu-ats.png" width="100%" alt="Reklu ATS recruiting platform preview" /></a>
+      <h3>Reklu ATS</h3>
+      <p>A multi-tenant recruiting platform for vacancies, candidates, workflows, reporting, and compliance.</p>
+      <p><a href="https://reklu.co/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://gym.wordev.lat/"><img src="./assets/projects/gym-center.png" width="100%" alt="Gym Center preview" /></a>
-      <h3>Gym Center</h3>
-      <p>A digital management system for gyms.</p>
-      <p><a href="https://gym.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
+      <a href="https://recibopagos.staging.terap-ia.lat/"><img src="./assets/projects/recibopagos.png" width="100%" alt="ReciboPagos payment products preview" /></a>
+      <h3>ReciboPagos</h3>
+      <p>A responsive product and commerce experience for discovering in-person and online payment solutions.</p>
+      <p><a href="https://recibopagos.staging.terap-ia.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://hotel.wordev.lat/"><img src="./assets/projects/hotel-boutique.png" width="100%" alt="Hotel Boutique preview" /></a>
-      <h3>Hotel Boutique</h3>
-      <p>Booking and digital hospitality experience.</p>
-      <p><a href="https://hotel.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
+      <a href="https://eventia.events/"><img src="./assets/projects/eventia.png" width="100%" alt="Eventia event services marketplace preview" /></a>
+      <h3>Eventia</h3>
+      <p>An event-planning marketplace for discovering professionals, comparing proposals, hiring, and communicating in one place.</p>
+      <p><a href="https://eventia.events/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://gourmet.wordev.lat/"><img src="./assets/projects/gourmet-kitchen.png" width="100%" alt="Gourmet Kitchen preview" /></a>
-      <h3>Gourmet Kitchen</h3>
-      <p>A visual culinary presence with a digital menu.</p>
-      <p><a href="https://gourmet.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <a href="https://art-galery.wordev.lat/"><img src="./assets/projects/art-gallery.png" width="72%" alt="Art Gallery preview" /></a>
-      <h3>Art Gallery</h3>
-      <p>A virtual gallery for discovering and experiencing art differently.</p>
-      <p><a href="https://art-galery.wordev.lat/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
+      <a href="https://www.afatransfers.com/"><img src="./assets/projects/afa-transfers.jpeg" width="100%" alt="AFA Transfers premium transportation platform preview" /></a>
+      <h3>AFA Transfers</h3>
+      <p>A multilingual platform for airport transfers, private rides, excursions, bookings, and transportation operations in Mexico.</p>
+      <p><a href="https://www.afatransfers.com/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
     </td>
   </tr>
 </table>
