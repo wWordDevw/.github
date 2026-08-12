@@ -88,7 +88,7 @@ Productos reales creados para operaciones reales.
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://eventia.events/"><img src="./assets/projects/eventia.png" width="100%" alt="Vista previa del marketplace de eventos Eventia" /></a>
+      <a href="https://eventia.events/"><img src="./assets/projects/eventia-card.png" width="100%" alt="Vista previa del marketplace de eventos Eventia" /></a>
       <h3>Eventia</h3>
       <p>Marketplace de eventos para descubrir profesionales, comparar propuestas, contratar y comunicarse en un mismo lugar.</p>
       <p><a href="https://eventia.events/"><strong>Ver proyecto</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Abrir proyecto" /></a></p>

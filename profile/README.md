@@ -88,7 +88,7 @@ Real products built for real operations.
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://eventia.events/"><img src="./assets/projects/eventia.png" width="100%" alt="Eventia event services marketplace preview" /></a>
+      <a href="https://eventia.events/"><img src="./assets/projects/eventia-card.png" width="100%" alt="Eventia event services marketplace preview" /></a>
       <h3>Eventia</h3>
       <p>An event-planning marketplace for discovering professionals, comparing proposals, hiring, and communicating in one place.</p>
       <p><a href="https://eventia.events/"><strong>View project</strong>&nbsp;<img src="./assets/external-link.svg" width="15" alt="Open project" /></a></p>
