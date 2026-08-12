@@ -150,10 +150,6 @@ Real products built for real operations.
   <a href="https://wordev.lat/">wordev.lat</a>
   &nbsp;·&nbsp;
   <a href="mailto:hola@worddev.com">hola@worddev.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://wa.me/573215011683">WhatsApp</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/wordev-8699253a4/">LinkedIn</a>
   <br /><br />
   <sub>We create digital products from Colombia for anywhere in the world. ❤️</sub>
 </div>
